@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d ! -pathv. -print | wc -l
