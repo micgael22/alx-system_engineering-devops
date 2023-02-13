@@ -1,2 +1,2 @@
-#!/bib/bash
+#!/bin/bash
 egrep ^ [[:alpha:]] /etc/ssh/ssd_config
